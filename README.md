@@ -8,4 +8,4 @@ ____
   + Clone this repository
   + Build | modify your project
   + Push your project into GitHub
-  [clickhere](www.google.com)
+  [clickhere](https://www.google.com/)
